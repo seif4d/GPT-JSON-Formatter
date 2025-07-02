@@ -1,7 +1,7 @@
 # GPT Conversation Exporter & Formatter 📜✨🧹
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/72595019/205562760-e9a9e338-958b-4a37-8b09-3c784914c6d6.png" width="150" alt="Project Logo">
+  <img src="Idea.png" width="150" alt="Project Logo">
   <p><strong>من الفوضى الخام... إلى الكنز المنظم!</strong></p>
 </div>
 
